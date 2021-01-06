@@ -3,7 +3,7 @@
 
 ### Supplementary material of Hof, Moreth et al. 2021
 
-##### Hof, L*; Moreth, T*; Koch, M; Liebisch, T; Kurtz, M; Tarnick, J; Lissek, S; Verstegen, M; van der Laan, L; Huch, M; Matthäus, F; Stelzer, EHK; Pampaloni, F; (2021) "Long-term live imaging and multiscale analysis identify heterogeneity and core principles of epithelial organoid morphogenesis"
+##### Hof, L*; Moreth, T*; Koch, M; Liebisch, T; Kurtz, M; Tarnick, J; Lissek, S; Verstegen, M; van der Laan, L; Huch, M; Matthäus, F; Stelzer, EHK; Pampaloni, F (2021) "Long-term live imaging and multiscale analysis identify heterogeneity and core principles of epithelial organoid morphogenesis"
 
 The bright field pipeline was implemented in Python 3.6
 
